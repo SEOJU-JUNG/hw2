@@ -23,7 +23,7 @@ function draw() {
   
   //X Yellow Big ball
   fill('#F2E205');
-  ellipse(ballX, 200, 300);
+  ellipse( 200,ballX, 300);
   
   //X2 Sky ball
   fill('#05DBF2');
@@ -33,6 +33,7 @@ function draw() {
   fill('#447EF2');
   ellipse(ballX3, 500, 90);
   
+
   
   //Orange ball
   fill('#F2A444');
@@ -92,7 +93,7 @@ function draw() {
   }
   
    if (ballX5 <= 0) {
-    ballSpeed5 = 3;
+    ballSpeed5 = 8;
   }
 
 }
