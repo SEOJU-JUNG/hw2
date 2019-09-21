@@ -33,9 +33,6 @@ function draw() {
   fill('#447EF2');
   ellipse(ballX3, 500, 90);
   
-    //blue big ball
-  fill('#447EF2');
-  ellipse(120, ballX4, 50);
   
   //Orange ball
   fill('#F2A444');
