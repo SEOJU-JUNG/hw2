@@ -29,7 +29,7 @@ function draw() {
   fill('#05DBF2');
   ellipse(200, ballX2, 150);
   
-  //X3 blue ball
+  //X3 Blue ball
   fill('#447EF2');
   ellipse(ballX3, 500, 90);
   
