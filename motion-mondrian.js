@@ -22,7 +22,7 @@ function draw() {
   
  
   
-    // !!!Blue square
+    // Blue square
  
   colorMode(HSB);
   fill(Blue,48,85);
