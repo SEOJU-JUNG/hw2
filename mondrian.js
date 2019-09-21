@@ -15,7 +15,7 @@ function draw() {
   fill('#F2059F');
   rect(100, 0, 200, 50);
   
-    // skyblue square
+    // Skyblue square
   fill('#41F2E1');
   rect(100, 400, 200, 200);
   
